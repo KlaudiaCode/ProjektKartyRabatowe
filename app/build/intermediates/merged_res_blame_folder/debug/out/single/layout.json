@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_card_details.xml",
+        "source": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/src/main/res/layout/fragment_card_details.xml"
+    },
+    {
+        "merged": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_card_list.xml",
+        "source": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/src/main/res/layout/fragment_card_list.xml"
+    },
+    {
+        "merged": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_recycler_view_item.xml",
+        "source": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/src/main/res/layout/card_recycler_view_item.xml"
+    },
+    {
+        "merged": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/tomaszkopycinski/AndroidStudioProjects/Kartylojalnosciowe/app/src/main/res/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Karty lojalnosciowe</string>
+    <string name="add_card">Dodaj kartę</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">Image</string>
+    <string name="save">Zapisz</string>
+    <string name="remove">Usuń kartę</string>
+    <string name="sure">Karta zostanie usunięta. Kontynuować?</string>
+    <string name="no">Nie</string>
+    <string name="yes">Tak</string>
+    <string name="your_cards">Twoje karty</string>
+    <string name="exists">Taka karta już istnieje. Wybierz inną nazwę.</string>
+    <string name="saved">Zmiany zapisane!</string>
+</resources>

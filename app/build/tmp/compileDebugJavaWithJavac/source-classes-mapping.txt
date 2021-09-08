@@ -1,0 +1,10 @@
+domanska/klaudia/kartylojalnosciowe/BuildConfig.java
+ domanska.klaudia.kartylojalnosciowe.BuildConfig
+domanska/klaudia/kartylojalnosciowe/databinding/FragmentCardDetailsBinding.java
+ domanska.klaudia.kartylojalnosciowe.databinding.FragmentCardDetailsBinding
+domanska/klaudia/kartylojalnosciowe/databinding/FragmentCardListBinding.java
+ domanska.klaudia.kartylojalnosciowe.databinding.FragmentCardListBinding
+domanska/klaudia/kartylojalnosciowe/databinding/CardRecyclerViewItemBinding.java
+ domanska.klaudia.kartylojalnosciowe.databinding.CardRecyclerViewItemBinding
+domanska/klaudia/kartylojalnosciowe/databinding/ActivityMainBinding.java
+ domanska.klaudia.kartylojalnosciowe.databinding.ActivityMainBinding
